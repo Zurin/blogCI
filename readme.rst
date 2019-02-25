@@ -1,10 +1,9 @@
 ###################
 Simple Blog
 ###################
-```
-webfront:
+
+webfront
 http://localhost/[directory]
 
-admin:
+admin
 http://localhost/[directory]/admin
-```
